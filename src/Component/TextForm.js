@@ -55,7 +55,7 @@ export default function TextForm(props) {
           onChange={handleOnChange}
           style={{backgroundColor :props.mode === 'dark' ? 'gray':'white' , color :props.mode === 'light' ? 'black':'white'}}
         ></textarea>
-        <button className="btn btn-primary mx-2" onClick={handleUpClick}>
+        <button className="btn btn-info mx-2" onClick={handleUpClick}>
           Convert to Uppercase
         </button>
         <button className="btn btn-info  mx-2" onClick={lowerClick}>

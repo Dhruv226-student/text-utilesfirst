@@ -29,11 +29,9 @@ function App() {
       showAlert("Light mode enabled Sucessfully", "success");
     }
   };
-
   return (
     <>
       {/* <Router> */}
-        
         <Navbar
           title="TextUttiles"
           aboutText="About TextUtTlies"
@@ -50,7 +48,6 @@ function App() {
             {/* <Route exact path="/" element={<TextForm heading="Enter text to analyze"  mode={mode} showAlert={showAlert} />}> */}
             {/* </Route>
             </Routes> */}
-
       {/* </Router> */}
     </>
   );
