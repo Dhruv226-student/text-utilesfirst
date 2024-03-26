@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/static/js/main.08c6c954.js",
-    "static/js/453.ad6eb26e.chunk.js": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/index.html",
-    "main.f855e6bc.css.map": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/static/css/main.f855e6bc.css.map",
-    "main.08c6c954.js.map": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/static/js/main.08c6c954.js.map",
-    "453.ad6eb26e.chunk.js.map": "./https://github.com/Dhruv226-student/text-utilesfirst.gitnpm install --save gh-pages/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "./https://github.com/Dhruv226-student/text-utilesfirst.git/static/css/main.f855e6bc.css",
+    "main.js": "./https://github.com/Dhruv226-student/text-utilesfirst.git/static/js/main.5a95791f.js",
+    "static/js/453.ad6eb26e.chunk.js": "./https://github.com/Dhruv226-student/text-utilesfirst.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "./https://github.com/Dhruv226-student/text-utilesfirst.git/index.html",
+    "main.f855e6bc.css.map": "./https://github.com/Dhruv226-student/text-utilesfirst.git/static/css/main.f855e6bc.css.map",
+    "main.5a95791f.js.map": "./https://github.com/Dhruv226-student/text-utilesfirst.git/static/js/main.5a95791f.js.map",
+    "453.ad6eb26e.chunk.js.map": "./https://github.com/Dhruv226-student/text-utilesfirst.git/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.08c6c954.js"
+    "static/js/main.5a95791f.js"
   ]
 }
